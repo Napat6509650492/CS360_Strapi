@@ -135,9 +135,9 @@ Ref : https://docs.strapi.io/user-docs/content-type-builder/configuring-fields-c
 
   
 
-|LineID|Phone |Address|
-|--|--|--|--|
-|stt|099999999 |example|
+|LineID|Phone|Address|
+|--|--|--|
+|stt|099999999|example|
 
   
 
